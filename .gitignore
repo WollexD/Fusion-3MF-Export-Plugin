@@ -1,0 +1,4 @@
+# Ignorieren
+*.env
+*.vscode
+*.manifest
